@@ -1,5 +1,5 @@
-# cmb2-fix-repeatable-fields-in-group-field-type
-Fix cmb2 repeatable fields issue in group field
+#cmb2-fix-repeatable-fields-in-group-field-type
+Fix Wordpress cmb2 plugin repeatable fields issue in group field
 
 
 In CMB2 i was found a issue with multi repeatable fields in Group field type. Then i research on it. but i didn't found any solution for that. Finaly I fix this issue my self. 
